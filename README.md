@@ -1,0 +1,1 @@
+# weekly-amount-trades-report
